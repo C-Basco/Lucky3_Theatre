@@ -1,0 +1,10 @@
+{
+  "editor.formatOnPaste": true,
+  "python.formatting.provider": "none",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "cSpell.words": ["pydantic"],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  }
+}

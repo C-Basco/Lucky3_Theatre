@@ -1,0 +1,33 @@
+body {
+  background-image: url("picture/Theaterbg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: white !important;
+  font-size: 19px;
+}
+
+.brand-logo {
+  width: auto;
+  height: 55px; /* Adjust the height as needed */
+  border-radius: 50%;
+  object-fit: cover;
+  background-color: black;
+}
+
+.bar-div {
+  zoom: 50%;
+}
